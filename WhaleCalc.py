@@ -19,8 +19,13 @@ T = SN/SH
 TU = HR * T
 ON = SN/O
 HoW = math.floor(((ON*OA)/HR))
-
 DT = math.floor(T - HoW)
-print("HOURS NEEDED TO WORK: {0}".format(HoW))
+
+if HoW < T:
+    print("Swiping may better....Its {0} hours faster.".format(DT))
+else:
+    print("Grinding may be better than swiping... Its {0} hours faster.".format(DT))
+
+print("\nHOURS NEEDED TO WORK: {0}".format(HoW))
 print("HOURS NEEDED TO GRIND: {0}".format(T))
-print("DIFFERENCE OF TIME: {0}".format(DT))
+
