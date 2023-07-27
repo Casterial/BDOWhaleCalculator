@@ -12,7 +12,6 @@ What is your avg Silver/Hour? <user_input>
 1020000000
 Average $USD Outfit Price: $20
 
-
 Calculating....
 HOURS NEEDED TO WORK: X
 HOURS NEEDED TO GRIND: Y
