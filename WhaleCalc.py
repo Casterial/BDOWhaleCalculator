@@ -1,3 +1,4 @@
+import math
 print("Black Desert Online Whale Calculator")
 
 HR = int(input("What is your $hour rate? "))
@@ -8,7 +9,7 @@ SH = int(input("What is your avg Silver/Hour "))
 outfit_price = "1020000000"
 OA = int(20)
 print("\n\n****CURRENT MARKET OUTFIT PRICE****")
-print(outfit_price)
+print(outfit_price, 'silver')
 print("Average $USD Outfit Price: $20")
 O = int(outfit_price)
 
@@ -17,7 +18,9 @@ print("\n\nCalculating....")
 T = SN/SH
 TU = HR * T
 ON = SN/O
-HoW = ((ON*OA)/HR)
+HoW = math.floor(((ON*OA)/HR))
 
+DT = math.floor(T - HoW)
 print("HOURS NEEDED TO WORK: {0}".format(HoW))
 print("HOURS NEEDED TO GRIND: {0}".format(T))
+print("DIFFERENCE OF TIME: {0}".format(DT))
