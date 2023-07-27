@@ -13,14 +13,14 @@ Black Desert Online Whale Calculator
 
 ****CURRENT MARKET OUTFIT PRICE****
 
-1020000000
+* 1020000000
 
-Average $USD Outfit Price: $20
+* Average $USD Outfit Price: $20
 
 Calculating....
 
-HOURS NEEDED TO WORK: X
+* HOURS NEEDED TO WORK: X
 
-HOURS NEEDED TO GRIND: Y
+* HOURS NEEDED TO GRIND: Y
 
-DIFFERENCE OF TIME: X-Y
+* DIFFERENCE OF TIME: X-Y
