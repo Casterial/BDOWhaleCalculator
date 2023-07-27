@@ -4,11 +4,11 @@ How it works, this was made as a meme - it shows your hours of grinding vs your 
 
 Black Desert Online Whale Calculator
 
-What is your $hour rate? <user_input>
+* What is your $hour rate? <user_input>
 
-What is your silver goal? <user_input>
+* What is your silver goal? <user_input>
 
-What is your avg Silver/Hour? <user_input>
+* What is your avg Silver/Hour? <user_input>
 
 
 ****CURRENT MARKET OUTFIT PRICE****
